@@ -1,0 +1,7 @@
+D:\VanHocAPTECH\CSharp\TheExamAPC\TheExamAPC\bin\Debug\TheExamAPC.exe.config
+D:\VanHocAPTECH\CSharp\TheExamAPC\TheExamAPC\bin\Debug\TheExamAPC.exe
+D:\VanHocAPTECH\CSharp\TheExamAPC\TheExamAPC\bin\Debug\TheExamAPC.pdb
+D:\VanHocAPTECH\CSharp\TheExamAPC\TheExamAPC\obj\Debug\TheExamAPC.csproj.AssemblyReference.cache
+D:\VanHocAPTECH\CSharp\TheExamAPC\TheExamAPC\obj\Debug\TheExamAPC.csproj.CoreCompileInputs.cache
+D:\VanHocAPTECH\CSharp\TheExamAPC\TheExamAPC\obj\Debug\TheExamAPC.exe
+D:\VanHocAPTECH\CSharp\TheExamAPC\TheExamAPC\obj\Debug\TheExamAPC.pdb
